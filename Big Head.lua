@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DontAltF4/OtherRandomThings/main/StupidStretchAvatarScript"))()
