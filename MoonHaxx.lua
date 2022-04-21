@@ -1,4 +1,3 @@
--- MoonHaxx UI
 local MoonHaxx = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local TextLabel = Instance.new("TextLabel")
